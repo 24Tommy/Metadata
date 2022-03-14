@@ -8,7 +8,7 @@
     {
       "trait_type": "Status",
       "value": "Broken",
-    },{"trait_type":"Days","value":"30"}
+    },{"trait_type":"Days left","value":"30"}
   ],
   "properties": {
     "creators": [
