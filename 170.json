@@ -7,8 +7,8 @@
   "attributes": [
     {
       "trait_type": "Status",
-      "value": "Broken",
-    },{"trait_type":"Days left","value":"30"}
+      "value": "Broken"
+    },
   ],
   "properties": {
     "creators": [
