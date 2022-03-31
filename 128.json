@@ -3,11 +3,15 @@
   "symbol": "HC",
   "description": "333 Chamber Keys granting access to the Heresy Chamber.",
   "seller_fee_basis_points": 800,
-  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Broken.gif",
+  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Active.gif",
   "attributes": [
     {
       "trait_type": "Status",
-      "value": "Broken"
+      "value": "Active"
+    },
+    {
+      "trait_type": "Durability",
+      "value": "28"
     }
   ],
   "properties": {
