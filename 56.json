@@ -8,10 +8,6 @@
     {
       "trait_type": "Status",
       "value": "Broken"
-    },
-    {
-      "trait_type": "Durability",
-      "value": "0"
     }
   ],
   "properties": {
