@@ -1,13 +1,17 @@
 {
   "name": "Chamber Key #208",
   "symbol": "HC",
-  "description": "Broken Chamber Key, renew to gain access to the Heresy Chamber",
+  "description": "Chamber Key which grants access to the Heresy Chamber when Active.",
   "seller_fee_basis_points": 800,
-  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Broken.gif",
+  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Active.gif",
   "attributes": [
     {
       "trait_type": "Status",
-      "value": "Broken"
+      "value": "Active"
+    },
+    {
+      "trait_type": "Renewal Date",
+      "value": "23/Jun"
     }
   ],
   "properties": {
