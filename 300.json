@@ -1,5 +1,5 @@
 {
-  "name": "Chamber Key #239",
+  "name": "Chamber Key #300",
   "symbol": "HC",
   "description": "Chamber Key which grants access to the Heresy Chamber when Active.",
   "seller_fee_basis_points": 800,
@@ -23,7 +23,7 @@
     ],
     "files": [
       {
-        "uri": "239.gif",
+        "uri": "300.gif",
         "type": "image/gif"
       }
     ]
