@@ -3,15 +3,15 @@
   "symbol": "HC",
   "description": "Chamber Key which grants access to the Heresy Chamber when Active.",
   "seller_fee_basis_points": 800,
-  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Active.gif",
+  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Broken.gif",
   "attributes": [
     {
       "trait_type": "Status",
-      "value": "Active"
+      "value": "Broken"
     },
     {
-      "trait_type": "Renewal Date",
-      "value": "12/Oct"
+      "trait_type": "Durability",
+      "value": "0"
     }
   ],
   "properties": {
