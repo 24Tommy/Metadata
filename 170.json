@@ -1,17 +1,17 @@
 {
-    "name": "Chamber Key #170",
+    "name": "Chamber Key #0",
     "symbol": "HC",
     "description": "333 Chamber Keys granting access to the Heresy Chamber.",
     "seller_fee_basis_points": 800,
-    "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Broken.gif",
+    "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Active.gif",
     "attributes": [
         {
             "trait_type": "Status",
-            "value": "Active"
+            "value": "Broken"
         },
         {
-            "trait_type": "Durability",
-            "value": "330"
+            "trait_type": "Days Left",
+            "value": "0"
         }
     ],
     "properties": {
@@ -23,7 +23,7 @@
         ],
         "files": [
             {
-                "uri": "170.gif",
+                "uri": "0.gif",
                 "type": "image/gif"
             }
         ]
