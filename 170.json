@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Durability",
-            "value": "9"
+            "value": "39"
         }
     ],
     "properties": {
@@ -23,7 +23,7 @@
         ],
         "files": [
             {
-                "uri": "0.gif",
+                "uri": "170.gif",
                 "type": "image/gif"
             }
         ]
