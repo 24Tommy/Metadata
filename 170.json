@@ -7,11 +7,11 @@
     "attributes": [
         {
             "trait_type": "Status",
-            "value": "Broken"
+            "value": "Active"
         },
         {
-            "trait_type": "Days Left",
-            "value": "0"
+            "trait_type": "Durability",
+            "value": "10"
         }
     ],
     "properties": {
