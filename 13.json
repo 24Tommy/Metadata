@@ -1,31 +1,31 @@
 {
-    "name": "Chamber Key #13",
-    "symbol": "HC",
-    "description": "333 Chamber Keys granting access to the Heresy Chamber.",
-    "seller_fee_basis_points": 800,
-    "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Active.gif",
-    "attributes": [
-        {
-            "trait_type": "Status",
-            "value": "Broken"
-        },
-        {
-            "trait_type": "Durability",
-            "value": "0"
-        }
-    ],
-    "properties": {
-        "creators": [
-            {
-                "address": "HC7iXP79Ef6Jry5bdPLoK7vG4XXBU7k6gyiKYHSJdqsP",
-                "share": 100
-            }
-        ],
-        "files": [
-            {
-                "uri": "13.gif",
-                "type": "image/gif"
-            }
-        ]
+  "name": "Chamber Key #13",
+  "symbol": "HC",
+  "description": "Chamber Key which grants access to the Heresy Chamber when Active.",
+  "seller_fee_basis_points": 800,
+  "image": "https://raw.githubusercontent.com/24Tommy/Metadata/main/Broken.gif",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Durability",
+      "value": "0"
     }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "HC7iXP79Ef6Jry5bdPLoK7vG4XXBU7k6gyiKYHSJdqsP",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "13.gif",
+        "type": "image/gif"
+      }
+    ]
+  }
 }
